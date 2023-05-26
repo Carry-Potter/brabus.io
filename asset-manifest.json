@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/brabus.io/static/css/main.b492ad7a.chunk.css",
+    "main.js": "/brabus.io/static/js/main.a1bd8f65.chunk.js",
+    "main.js.map": "/brabus.io/static/js/main.a1bd8f65.chunk.js.map",
+    "runtime-main.js": "/brabus.io/static/js/runtime-main.3ba13adb.js",
+    "runtime-main.js.map": "/brabus.io/static/js/runtime-main.3ba13adb.js.map",
+    "static/js/2.095c384b.chunk.js": "/brabus.io/static/js/2.095c384b.chunk.js",
+    "static/js/2.095c384b.chunk.js.map": "/brabus.io/static/js/2.095c384b.chunk.js.map",
+    "static/js/3.a4341546.chunk.js": "/brabus.io/static/js/3.a4341546.chunk.js",
+    "static/js/3.a4341546.chunk.js.map": "/brabus.io/static/js/3.a4341546.chunk.js.map",
+    "index.html": "/brabus.io/index.html",
+    "static/css/main.b492ad7a.chunk.css.map": "/brabus.io/static/css/main.b492ad7a.chunk.css.map",
+    "static/js/2.095c384b.chunk.js.LICENSE.txt": "/brabus.io/static/js/2.095c384b.chunk.js.LICENSE.txt",
+    "static/media/20220516-20220516_Brabus_days_3613.c45cfe9f.jpg": "/brabus.io/static/media/20220516-20220516_Brabus_days_3613.c45cfe9f.jpg",
+    "static/media/231021Brabus_075sw_quer-2.a679c4d0.jpg": "/brabus.io/static/media/231021Brabus_075sw_quer-2.a679c4d0.jpg",
+    "static/media/BRABUS 900 Deep Blue_10sek_Webteaser_H264_WEBTEASER_Benutzerdefiniert_WEBTEASER.a962dfdb.mp4": "/brabus.io/static/media/BRABUS 900 Deep Blue_10sek_Webteaser_H264_WEBTEASER_Benutzerdefiniert_WEBTEASER.a962dfdb.mp4",
+    "static/media/BRABUS EQS58 Commercial_WEBTEASER.adc5806f.mp4": "/brabus.io/static/media/BRABUS EQS58 Commercial_WEBTEASER.adc5806f.mp4",
+    "static/media/BRABUS GLS 900_10Sek_Webteaser_mit Dreieck.58a685b5.mp4": "/brabus.io/static/media/BRABUS GLS 900_10Sek_Webteaser_mit Dreieck.58a685b5.mp4",
+    "static/media/BRABUS Shadow 900XC Black Ops Signature Edition klein (5)-1920x1080.5dea7e76.jpg": "/brabus.io/static/media/BRABUS Shadow 900XC Black Ops Signature Edition klein (5)-1920x1080.5dea7e76.jpg",
+    "static/media/BRABUS-911TurboS.a47655f9.jpg": "/brabus.io/static/media/BRABUS-911TurboS.a47655f9.jpg",
+    "static/media/BRABUS-930.c476c4a8.jpg": "/brabus.io/static/media/BRABUS-930.c476c4a8.jpg",
+    "static/media/BRABUS333.d8bb20ee.jpg": "/brabus.io/static/media/BRABUS333.d8bb20ee.jpg",
+    "static/media/BRABUS_1300R_Website_10sel_Teaser_.22f06473.mp4": "/brabus.io/static/media/BRABUS_1300R_Website_10sel_Teaser_.22f06473.mp4",
+    "static/media/BRBAUS.aed166b9.mp4": "/brabus.io/static/media/BRBAUS.aed166b9.mp4",
+    "static/media/DSC_9937-1281x1280.269c9431.jpg": "/brabus.io/static/media/DSC_9937-1281x1280.269c9431.jpg",
+    "static/media/Mallorca-2022.04b21ee8.jpg": "/brabus.io/static/media/Mallorca-2022.04b21ee8.jpg",
+    "static/media/Pam1285_Cat_Dett02_B_2389465-960x960.e706f5bb.jpg": "/brabus.io/static/media/Pam1285_Cat_Dett02_B_2389465-960x960.e706f5bb.jpg",
+    "static/media/SMART.afc70dc8.jpg": "/brabus.io/static/media/SMART.afc70dc8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ba13adb.js",
+    "static/js/2.095c384b.chunk.js",
+    "static/css/main.b492ad7a.chunk.css",
+    "static/js/main.a1bd8f65.chunk.js"
+  ]
+}
